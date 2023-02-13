@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/paradox" target="blank"><img src="https://img.shields.io/twitter/follow/paradox?logo=twitter&style=for-the-badge" alt="paradox" /></a> </p>
 
-<p align="left"> <a href="https://twitch.tv/TTV_ParadoxG" target="blank"><img src="https://img.shields.io/twitch/follow/paradox?logo=twitter&style=for-the-badge" alt="paradox" /></a> </p>
-
 - 🔭 I’m currently working on [GamersVill](https://github.com/landonm26301/GamersVill)
 
 - 🌱 I’m currently learning **python, ruby, c+**
