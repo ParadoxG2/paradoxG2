@@ -5,19 +5,17 @@
 
 - 🔭 I’m currently working on [Twiterium]([https://funmath.co](https://www.npmjs.com/package/twiterium?activeTab=readme))
 
-- 🌱 I’m currently learning **python, ruby, c+**
+- 🌱 I’m currently learning **c++**
 
-- 👯 I’m looking to collaborate on **nothing curently**
+<!-- - 👯 I’m looking to collaborate on **nothing curently** -->
 
-- 🤝 I’m looking for help with **nothing curently**
+<!-- - 🤝 I’m looking for help with **nothing curently** -->
 
-- 👨‍💻 My most sucsesfull website. [https://funmath.co](https://funmath.co)
-
-- 💬 Ask me about **react, php, js, html, css**
+<!-- - 💬 Ask me about **Js, ** -->
 
 - 📫 How to reach me **ttvparadox2@gmail.com**
 
-- 📄 Know about my experiences / stafing [https://funmath.co/?i=1#staff](https://funmath.co/?i=1#staff)
+<!-- - 📄 Know about my experiences / stafing [https://funmath.co/?i=1#staff](https://funmath.co/?i=1#staff) -->
 
 - ⚡ Fun fact **rust is a good game check it out.**
 
