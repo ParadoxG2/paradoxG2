@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paradox</h1>
 <h3 align="center">A Retarded develepor.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paradox" alt="paradox" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ttv_paradox g" target="blank"><img src="https://img.shields.io/twitter/follow/ttv_paradox g?logo=twitter&style=for-the-badge" alt="ttv_paradox g" /></a> </p>
+<p align="left"> <a href="https://twitter.com/TtvparadoxG" target="blank"><img src="https://img.shields.io/twitter/follow/ttv_paradox g?logo=twitter&style=for-the-badge" alt="ttv_paradox g" /></a> </p>
 
 - 🔭 I’m currently working on [Tweetium](https://github.com/Doge-Productions/Tweetium)
 
