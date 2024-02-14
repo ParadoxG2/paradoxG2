@@ -3,17 +3,17 @@
 
 <p align="left"> <a href="https://twitter.com/TtvparadoxG" target="blank"><img src="https://img.shields.io/twitter/follow/ttv_paradox g?logo=twitter&style=for-the-badge" alt="ttv_paradox g" /></a> </p>
 
-- 🔭 I’m currently working on [Tweetium](https://github.com/Doge-Productions/Tweetium)
+- 🔭 I’m currently working on [Quill-Api](https://github.com/Doge-Productions/Tweetium)
 
-- 🌱 I’m currently learning **python, ruby, c+**
+- 🌱 I’m currently learning **C++, Javascript, c#**
 
 - 📝 I dont write articles but hear are som anyway [https://www.kanyewestmerchshop.com/](https://www.kanyewestmerchshop.com/)
 
-- 💬 Ask me about **Js, Node, Selium, Html, DRAKE!**
+- 💬 Ask me about **Js, Node, Selium, Html, Kanye West!**
 
 - 📫 How to reach me **ttvparadoxg@gmail.com**
 
-- ⚡ My favrot quote **OMG DRAKE!!!!**
+- ⚡ My favrot quote **I just bought my bitch a bitch"Kanye West - Vulturs"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
