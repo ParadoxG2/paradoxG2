@@ -50,3 +50,7 @@ jobs:
           plugin_music_user: 31ovz345ew5woonxojrte4ro65py
           plugin_repositories: yes
           plugin_repositories_order: featured, pinned, starred, random
+          plugin_sponsors: yes
+          plugin_sponsors_sections: Lgbtq+ mental health awarnes, list
+          plugin_sponsors_past: yes
+            
