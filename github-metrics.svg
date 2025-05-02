@@ -1294,11 +1294,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#84b9433</div>
-                                        <div class="message">KlipperScreen.conf modified - 2025-05-02 - 03:49:58 PM - No new changes pushed</div>
+                                        <div class="sha">#01f1de1</div>
+                                        <div class="message">printer.cfg modified - 2025-05-02 - 05:12:39 PM</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">2 May 2025, 15:50:07</div>
+                                <div class="timestamp">2 May 2025, 17:12:44</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -1315,11 +1315,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3cbcb44</div>
-                                        <div class="message">KlipperScreen.conf modified - 2025-05-02 - 03:49:53 PM - No new changes pushed</div>
+                                        <div class="sha">#285dd2a</div>
+                                        <div class="message">printer.cfg modified - 2025-05-02 - 04:09:13 PM - No new changes pushed</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">2 May 2025, 15:50:05</div>
+                                <div class="timestamp">2 May 2025, 16:09:18</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -1336,11 +1336,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#bf3783a</div>
-                                        <div class="message">KlipperScreen.conf modified - 2025-05-02 - 03:49:49 PM - No new changes pushed</div>
+                                        <div class="sha">#97b9d9b</div>
+                                        <div class="message">printer_autosave.cfg modified - 2025-05-02 - 04:09:08 PM - No new changes pushed</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">2 May 2025, 15:49:54</div>
+                                <div class="timestamp">2 May 2025, 16:09:14</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -1357,11 +1357,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1bc685f</div>
-                                        <div class="message">KlipperScreen.conf modified - 2025-05-02 - 03:49:45 PM - No new changes pushed</div>
+                                        <div class="sha">#e787a7e</div>
+                                        <div class="message">printer.cfg modified - 2025-05-02 - 04:09:04 PM - No new changes pushed</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">2 May 2025, 15:49:54</div>
+                                <div class="timestamp">2 May 2025, 16:09:09</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -1378,11 +1378,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#229c3ab</div>
-                                        <div class="message">KlipperScreen.conf modified - 2025-05-02 - 03:49:41 PM - No new changes pushed</div>
+                                        <div class="sha">#48e5815</div>
+                                        <div class="message">printer_autosave.cfg modified - 2025-05-02 - 04:09:00 PM</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">2 May 2025, 15:49:46</div>
+                                <div class="timestamp">2 May 2025, 16:09:05</div>
                             </section>
                         </div>
                     </section>
@@ -1407,7 +1407,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 May 2025, 16:19:35 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 May 2025, 17:20:19 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
